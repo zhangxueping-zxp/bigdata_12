@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata_12.iml" filepath="$PROJECT_DIR$/bigdata_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_zookeeper/day01_zookeeper.iml" filepath="$PROJECT_DIR$/day01_zookeeper/day01_zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_hdfs/day03_hdfs.iml" filepath="$PROJECT_DIR$/day03_hdfs/day03_hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_mr/day04_mr.iml" filepath="$PROJECT_DIR$/day04_mr/day04_mr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_mr_yarn/day05_mr_yarn.iml" filepath="$PROJECT_DIR$/day05_mr_yarn/day05_mr_yarn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_hiveudf/day06_hiveudf.iml" filepath="$PROJECT_DIR$/day06_hiveudf/day06_hiveudf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_flume/day07_flume.iml" filepath="$PROJECT_DIR$/day07_flume/day07_flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_sshxcute/day08_sshxcute.iml" filepath="$PROJECT_DIR$/day08_sshxcute/day08_sshxcute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_impala/day10_impala.iml" filepath="$PROJECT_DIR$/day10_impala/day10_impala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_kafka/day12_kafka.iml" filepath="$PROJECT_DIR$/day12_kafka/day12_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_realBoard/day13_realBoard.iml" filepath="$PROJECT_DIR$/day13_realBoard/day13_realBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_storm/day13_storm.iml" filepath="$PROJECT_DIR$/day13_storm/day13_storm.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01_zookeeper" />
+        <module name="day03_hdfs" />
+        <module name="day04_mr" />
+        <module name="day05_mr_yarn" />
+        <module name="day06_hiveudf" />
+        <module name="day07_flume" />
+        <module name="day08_sshxcute" />
+        <module name="day10_impala" />
+        <module name="day12_kafka" />
+        <module name="day13_realBoard" />
+        <module name="day13_storm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bigdata_12" target="1.5" />
+      <module name="day01_zookeeper" target="1.8" />
+      <module name="day03_hdfs" target="1.8" />
+      <module name="day04_mr" target="1.8" />
+      <module name="day05_mr_yarn" target="1.8" />
+      <module name="day06_hiveudf" target="1.8" />
+      <module name="day07_flume" target="1.8" />
+      <module name="day08_sshxcute" target="1.5" />
+      <module name="day10_impala" target="1.8" />
+      <module name="day12_kafka" target="1.8" />
+      <module name="day13_realBoard" target="1.8" />
+      <module name="day13_storm" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

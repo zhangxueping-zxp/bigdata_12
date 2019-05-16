@@ -1,0 +1,16 @@
+
+=============== [2018/10/18 11:22:55, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[11:22:55] INFO:    SSHExec initializing ...
+[11:22:55] INFO:    Session initialized and associated with user credential 123456
+[11:22:55] INFO:    SSHExec initialized successfully
+[11:22:55] INFO:    SSHExec trying to connect root@node03
+[11:22:58] INFO:    SSH connection established
+[11:22:58] INFO:    Command is echo 'helloworld' >>/export/servers/abchello.txt
+[11:22:58] INFO:    Connection channel established succesfully
+[11:22:58] INFO:    Start to run command
+[11:22:58] INFO:    Connection channel closed
+[11:22:58] INFO:    Check if exec success or not ... 
+[11:22:58] INFO:    Execute successfully for command: echo 'helloworld' >>/export/servers/abchello.txt
+[11:22:58] INFO:    Connection channel disconnect
+[11:22:58] INFO:    SSH connection shutdown
